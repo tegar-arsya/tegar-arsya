@@ -72,9 +72,3 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tegar-arsya&theme=black-ice" alt="GitHub Streak" />
 </div>
-
-<style>
-  body {
-    background-color: #0d1117;
-  }
-</style>
