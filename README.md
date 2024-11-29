@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Laravel, Next Js, Codeigniter**
 
-- 👨‍💻 All of my projects are available at [https://portofolio-project.tegararsyadani.my.id/](https://portofolio-project.tegararsyadani.my.id/)
+- 👨‍💻 All of my projects are available at [https://tegararsyadani.my.id/](https://tegararsyadani.my.id)
 
 - 💬 Ask me about **react, vue, dan tailwind**
 
